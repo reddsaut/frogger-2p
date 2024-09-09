@@ -13,6 +13,19 @@
 *.asset merge=unityyamlmerge eol=lf
 *.meta merge=unityyamlmerge eol=lf
 *.controller merge=unityyamlmerge eol=lf
+*.overrideController -text merge=unityyamlmerge diff
+*.playable -text merge=unityyamlmerge diff
+*.mask -text merge=unityyamlmerge diff
+*.brush -text merge=unityyamlmerge diff
+*.flare -text merge=unityyamlmerge diff
+*.fontsettings -text merge=unityyamlmerge diff
+*.guiskin -text merge=unityyamlmerge diff
+*.giparams -text merge=unityyamlmerge diff
+*.renderTexture -text merge=unityyamlmerge diff
+*.spriteatlas -text merge=unityyamlmerge diff
+*.terrainlayer -text merge=unityyamlmerge diff
+*.mixer -text merge=unityyamlmerge diff
+*.shadervariants -text merge=unityyamlmerge diff
 
 
 ## git-lfs ##
