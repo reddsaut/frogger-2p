@@ -243,3 +243,13 @@ Start importing Assets/InputSystem_Actions.inputactions using Guid(3590b91b4603b
  -> (artifact id: '52978deca89b5547bfe7f2cc0d175ccc') in 0.015722541 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
 
+========================================================================
+Received Import Request.
+  Time since last request: 923.990912 seconds.
+  path: Assets/Sprites/frog_20240818141449.png
+  artifactKey: Guid(d4cd718369ddd415db5e9b6d9ee473da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/frog_20240818141449.png using Guid(d4cd718369ddd415db5e9b6d9ee473da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '77ff337e353d58e0a83b57590d0af761') in 0.149005584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+

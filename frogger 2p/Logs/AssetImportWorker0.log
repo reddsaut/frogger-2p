@@ -234,3 +234,59 @@ Memory consumption went from 121.7 MB to 120.7 MB.
 Total: 6.037416 ms (FindLiveObjects: 0.283584 ms CreateObjectMapping: 0.219500 ms MarkObjects: 4.783375 ms  DeleteObjects: 0.750625 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 130707.092914 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(9c53962885c2c4f449125a979d6ad240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(9c53962885c2c4f449125a979d6ad240) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'd65b75f456837a3494a5e6e744543932') in 0.023085125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.220503 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(7c182f62084e546d9bc7b38d47400ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(7c182f62084e546d9bc7b38d47400ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '28e47e40cda9661816cd7f4c92a5c0d7') in 0.001917084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.925731 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(f9ab57ab021974937a57307bed733b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(f9ab57ab021974937a57307bed733b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '67347a98c260f6081396d0d5c5e5bd68') in 0.000459209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.139732 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(45c2ca93ff7a2404dbbe3bb4d790d3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(45c2ca93ff7a2404dbbe3bb4d790d3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'eaaec30acd6ca727c30345eca1fc3c85') in 0.000397958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.159095 seconds.
+  path: Assets/Sprites/CarCollection.png
+  artifactKey: Guid(dff3f13a2e9ce4da896300310eb03baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CarCollection.png using Guid(dff3f13a2e9ce4da896300310eb03baa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '884a9356797059c5423adfa319800c35') in 0.113456125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/frog_PNG3835.png
+  artifactKey: Guid(a198ec9b83e8847f18ccb064d32e8e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/frog_PNG3835.png using Guid(a198ec9b83e8847f18ccb064d32e8e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e4ca7af703b03406a91caed1748c594f') in 0.028971917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
