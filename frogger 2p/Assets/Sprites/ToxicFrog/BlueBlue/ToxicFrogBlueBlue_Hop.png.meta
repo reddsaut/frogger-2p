@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ToxicFrogBlueBlue_Hop_0: 8746006407640134417
+      ToxicFrogBlueBlue_Hop_1: 8349672396978831501
+      ToxicFrogBlueBlue_Hop_2: 992565615308839768
+      ToxicFrogBlueBlue_Hop_3: -8258918125224631369
+      ToxicFrogBlueBlue_Hop_4: -2202096352324521050
+      ToxicFrogBlueBlue_Hop_5: 7348916141068510156
+      ToxicFrogBlueBlue_Hop_6: -1650930033846453904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roadblock_Horizontal_Anim_52X52.png_0: 7779336986038323860
+      Roadblock_Horizontal_Anim_52X52.png_1: -8256336597616194288
+      Roadblock_Horizontal_Anim_52X52.png_10: 6757543477980694798
+      Roadblock_Horizontal_Anim_52X52.png_11: 1480041330028559707
+      Roadblock_Horizontal_Anim_52X52.png_12: 2002267644095514622
+      Roadblock_Horizontal_Anim_52X52.png_13: -5801455151156609861
+      Roadblock_Horizontal_Anim_52X52.png_2: -6082438696113274455
+      Roadblock_Horizontal_Anim_52X52.png_3: 701905587807838236
+      Roadblock_Horizontal_Anim_52X52.png_4: -6380419150864574380
+      Roadblock_Horizontal_Anim_52X52.png_5: 8674460663240872038
+      Roadblock_Horizontal_Anim_52X52.png_6: -2465341039640381851
+      Roadblock_Horizontal_Anim_52X52.png_7: -4213918231177974198
+      Roadblock_Horizontal_Anim_52X52.png_8: 2643189307910127968
+      Roadblock_Horizontal_Anim_52X52.png_9: 3875742765234424770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

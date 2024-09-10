@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crack-decal-18x22-02_0: 6640986145506765308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

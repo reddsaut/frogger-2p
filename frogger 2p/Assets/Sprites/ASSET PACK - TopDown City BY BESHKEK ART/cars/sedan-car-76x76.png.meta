@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sedan-car-76x76_0: 7480866116622289875
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

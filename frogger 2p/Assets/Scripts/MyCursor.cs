@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.Mathematics;
 
 public class MyCursor : MonoBehaviour
 {
@@ -11,16 +10,20 @@ public class MyCursor : MonoBehaviour
     public float fps;
     private bool canClick = true;
     private bool hasCars = false;
+    private AudioSource audioSource;
+    public AudioClip honk;
     SpriteRenderer spriteRenderer;
 
     private int numCars = 5;
     private int numGaps = 2;
+    private List<GameObject> cars = new List<GameObject>();
 
     public GameObject carPrefab;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         UnityEngine.Cursor.visible = false;
+        audioSource = GetComponent<AudioSource>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = frames[frames.Length - 1];
     }
@@ -38,6 +41,7 @@ public class MyCursor : MonoBehaviour
 
         if(!hasCars && canClick && Input.GetMouseButtonDown(0))
         {
+            audioSource.PlayOneShot(honk);
             SpawnCars();
             StartCoroutine(Animate());
         }
@@ -65,13 +69,14 @@ public class MyCursor : MonoBehaviour
         // delete first m elements
 
         List<GameObject> cars = new List<GameObject>();
+
         int x = -12;
         int y = Mathf.RoundToInt(transform.position.y);
         for(int i = 0; i < numCars + numGaps; i++)
         {
             Vector3 position = new Vector3(x,y,0);
             cars.Add(Instantiate(carPrefab, position, Quaternion.identity));
-            x -= 2;
+            x -= 3;
         }
 
         System.Random random = new System.Random();
@@ -81,14 +86,15 @@ public class MyCursor : MonoBehaviour
             Destroy(cars[index]);
             cars.RemoveAt(index);
         }
+        this.cars.AddRange(cars);
     }
 
     void CheckCars() {
-        Vector3 origin = new Vector3(-12, Mathf.Round(transform.position.y), 0);
+        Vector3 origin = new Vector3(-10, Mathf.Round(transform.position.y), 0);
         float distance = 14;
         RaycastHit2D hit = Physics2D.Raycast(origin, Vector3.left, distance);
 
-        if(hit.collider != null)
+        if(hit.collider != null || origin.y < -3.5f || origin.y > 3)
         {
             hasCars = true;
             spriteRenderer.sprite = nuhuh;
@@ -97,6 +103,14 @@ public class MyCursor : MonoBehaviour
         {
             hasCars = false;
             spriteRenderer.sprite = frames[frames.Length - 1];
+        }
+    }
+
+    public void DestroyCars()
+    {
+        foreach(GameObject car in cars)
+        {
+            Destroy(car);
         }
     }
 }

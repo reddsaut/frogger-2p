@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smokeeffect_begin_48x64_0: 4211170410725762158
+      smokeeffect_begin_48x64_1: 6538352934816517971
+      smokeeffect_begin_48x64_10: -1161455516532397835
+      smokeeffect_begin_48x64_2: -3489689917612925506
+      smokeeffect_begin_48x64_3: 752467765089556458
+      smokeeffect_begin_48x64_4: 5560447975939789961
+      smokeeffect_begin_48x64_5: -5139468662903187872
+      smokeeffect_begin_48x64_6: -7082694250577497782
+      smokeeffect_begin_48x64_7: -1317263849966716283
+      smokeeffect_begin_48x64_8: -4923685161722714580
+      smokeeffect_begin_48x64_9: -2977313190216571958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

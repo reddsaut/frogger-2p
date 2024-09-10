@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tire-decal-64x6-02_0: 5001789476330268437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

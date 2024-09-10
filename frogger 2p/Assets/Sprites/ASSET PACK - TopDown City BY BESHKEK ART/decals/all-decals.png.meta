@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      all-decals_0: 2974110449815265665
+      all-decals_1: 2459870534822677959
+      all-decals_2: 5719500449692802648
+      all-decals_3: 2172135744978684859
+      all-decals_4: 4562455722666879768
+      all-decals_5: 8698136103313880505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

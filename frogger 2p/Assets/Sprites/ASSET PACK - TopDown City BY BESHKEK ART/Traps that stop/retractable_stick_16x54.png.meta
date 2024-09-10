@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      retractable_stick_16x54_0: 8041803452087285797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

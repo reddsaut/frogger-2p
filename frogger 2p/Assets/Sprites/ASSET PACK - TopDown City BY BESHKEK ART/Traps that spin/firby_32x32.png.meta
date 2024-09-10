@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      firby_32x32_0: -8731607044579162356
+      firby_32x32_1: 1041039785922762337
+      firby_32x32_2: 4578000913008362557
+      firby_32x32_3: 1218030339801921809
+      firby_32x32_4: 6341514484196653312
+      firby_32x32_5: 6828077719405706860
+      firby_32x32_6: 3306751371582311718
+      firby_32x32_7: -2665149855857890579
+      firby_32x32_8: 5201377421247171307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

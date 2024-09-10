@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      couple-car-76x76_0: 5479129881128375950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

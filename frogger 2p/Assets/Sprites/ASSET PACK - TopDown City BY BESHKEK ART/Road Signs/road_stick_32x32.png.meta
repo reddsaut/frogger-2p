@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      road_stick_32x32_0: -4029017314992121162
+      road_stick_32x32_1: 1726606824765562037
+      road_stick_32x32_2: -1466980206857816419
+      road_stick_32x32_3: -1447358940584868816
+      road_stick_32x32_4: -642302509879667731
+      road_stick_32x32_5: 8074919250220681398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

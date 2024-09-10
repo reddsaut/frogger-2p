@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      speedometer_64x64_0: 7253039925216798531
+      speedometer_64x64_1: 3984423407987812729
+      speedometer_64x64_10: 3647078095033819433
+      speedometer_64x64_11: 6710727741336934301
+      speedometer_64x64_12: -1804582686373665160
+      speedometer_64x64_13: 4019286931285093831
+      speedometer_64x64_2: 4029030398239197408
+      speedometer_64x64_3: 4939134835190576232
+      speedometer_64x64_4: -41290231884266971
+      speedometer_64x64_5: 999054690307962935
+      speedometer_64x64_6: -2326744363559739632
+      speedometer_64x64_7: -3707987520753067535
+      speedometer_64x64_8: 8015541769275098059
+      speedometer_64x64_9: 2074953405491783820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

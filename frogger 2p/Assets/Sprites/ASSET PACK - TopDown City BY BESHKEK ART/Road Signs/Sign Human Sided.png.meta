@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign Human Sided_0: 421792700088997757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trail-decal-74x41_0: 1736266517058796770
+      trail-decal-74x41_1: -7036907557890085466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

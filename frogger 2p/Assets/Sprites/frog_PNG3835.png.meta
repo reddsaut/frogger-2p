@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      frog_PNG3835_0: 9213175106973158546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

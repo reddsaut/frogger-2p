@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      REPORTER IN BLAZER 128x128_0: 1614398405635787059
+      REPORTER IN BLAZER 128x128_1: 7219606090462878964
+      REPORTER IN BLAZER 128x128_2: 1428011994535123698
+      REPORTER IN BLAZER 128x128_3: -8426361511630522018
+      REPORTER IN BLAZER 128x128_4: 4142722658977496164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

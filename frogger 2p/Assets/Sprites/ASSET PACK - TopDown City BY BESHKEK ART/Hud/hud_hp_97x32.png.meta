@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hud_hp_97x32_0: 1779616369032209015
+      hud_hp_97x32_1: -7933720852516262382
+      hud_hp_97x32_10: 3892003016576977556
+      hud_hp_97x32_11: -541407570746235588
+      hud_hp_97x32_12: -642499968169504394
+      hud_hp_97x32_2: -4722071405817671015
+      hud_hp_97x32_3: 2478644669174843147
+      hud_hp_97x32_4: -3116406801226279827
+      hud_hp_97x32_5: -8729639857723212685
+      hud_hp_97x32_6: -8750909942246697524
+      hud_hp_97x32_7: -5277953146609620248
+      hud_hp_97x32_8: 941127162245598376
+      hud_hp_97x32_9: 3939386693189313092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

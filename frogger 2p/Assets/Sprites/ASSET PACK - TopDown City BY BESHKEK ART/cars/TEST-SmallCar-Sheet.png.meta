@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TEST-SmallCar-Sheet_0: 580845376781041604
+      TEST-SmallCar-Sheet_1: 2245412506933221129
+      TEST-SmallCar-Sheet_2: -4451663025830561040
+      TEST-SmallCar-Sheet_3: -1198943806054044530
+      TEST-SmallCar-Sheet_4: 4939929911860068153
+      TEST-SmallCar-Sheet_5: -9032161140392635227
+      TEST-SmallCar-Sheet_6: -2528644646889706439
+      TEST-SmallCar-Sheet_7: -3243606865085347296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

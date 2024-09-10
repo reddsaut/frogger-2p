@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUD_HEAD BROKEN_97x32_0: -1097268987966421875
+      HUD_HEAD BROKEN_97x32_1: -1508257375789564767
+      HUD_HEAD BROKEN_97x32_2: -729969394126587782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

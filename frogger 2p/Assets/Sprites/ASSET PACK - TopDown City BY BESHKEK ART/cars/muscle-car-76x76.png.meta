@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      muscle-car-76x76_0: -3677972638274372117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
